@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/detrator/static/css/main.754ebb54.css",
+    "main.js": "/detrator/static/js/main.d35b6a1a.js",
+    "index.html": "/detrator/index.html",
+    "main.754ebb54.css.map": "/detrator/static/css/main.754ebb54.css.map",
+    "main.d35b6a1a.js.map": "/detrator/static/js/main.d35b6a1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.d35b6a1a.js"
+  ]
+}
